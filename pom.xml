@@ -9,5 +9,6 @@
   	<module>zookeeper-lock</module>
   	<module>zookeeper-leader</module>
   	<module>zookeeper-config</module>
+  	<module>zookeeper</module>
   </modules>
 </project>
